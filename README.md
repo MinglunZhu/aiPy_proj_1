@@ -1,6 +1,6 @@
 # aiPy_proj_1
 
-##Description
+## Description
 
 This is the project I did for Udacity Course AI Programming with Python Project 1 - Use A Pre-trained Image Classifier to Identify Dog Breeds.
 
@@ -8,7 +8,7 @@ It's a python commandline program that allows you to choose between 3 network ar
 
 This label will be used to measure the accuracy of the chosen network architecture. The program will also measure the time cost for running each network architecture. The result will be printed into a text file.
 
-##How to use
+## How to use
 
 Download the files, then in your commanline interface, run the following code:
 ```
@@ -29,6 +29,6 @@ Runs all three models on the images in the uploaded folder `uploaded_images`.
 results are printed to a text file in the format of `architecture_folder.txt`.
 E.g `alexnet_pet-images.txt`, `alexnet_uploaded-images.txt`
 
-##License
+## License
 
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
